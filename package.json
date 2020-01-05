@@ -10,11 +10,17 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/cli": "^2.9.0",
     "@react-native-firebase/app": "^6.0.3",
     "@react-native-firebase/auth": "^6.0.3",
+    "@react-native-firebase/firestore": "^6.0.3",
     "native-base": "^2.13.8",
     "react": "16.9.0",
-    "react-native": "0.61.2"
+    "react-native": "0.61.2",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-gesture-handler": "^1.5.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.10.3"
   },
   "devDependencies": {
     "@babel/core": "^7.6.4",
