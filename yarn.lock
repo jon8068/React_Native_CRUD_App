@@ -1029,10 +1029,10 @@
   resolved "https://registry.yarnpkg.com/@react-native-firebase/auth/-/auth-6.0.3.tgz#a14f7a6f320425023d9746b7a3773c1a27af91dd"
   integrity sha512-umKdT2ODkSDHzhS+EmLvqMYGgsP9YED8UKH6kZgUdZZF/QyyNa+UmlCOIlcTmInvBd6AZiYNfZfRVtlG7k8tCQ==
 
-"@react-native-firebase/firestore@^6.0.4":
-  version "6.0.4"
-  resolved "https://registry.yarnpkg.com/@react-native-firebase/firestore/-/firestore-6.0.4.tgz#b32e43e28798205f32480d6195269d3ccb027dfc"
-  integrity sha512-QOaVlc71WvUKfaRdu3SUbMryMQ8Xxt3K9wZ45XWukKqKmbMTPPaV9Edv+FOOos8ONgI5MUTuAE2M5FWCcWBQBQ==
+"@react-native-firebase/firestore@^6.0.3":
+  version "6.7.1"
+  resolved "https://registry.yarnpkg.com/@react-native-firebase/firestore/-/firestore-6.7.1.tgz#f0ccf73b51d73b31e7c9b8896979fa9a129583e3"
+  integrity sha512-hODzL694Ar/ao8EAW6QNbYJsqJXyaV7Qzku7TlJop2kIIs+UVzTcSGfnkfrTSJ2wW0ka6sM45asxmfuLkyz0eA==
 
 "@react-navigation/core@^3.5.1":
   version "3.5.1"
@@ -3115,9 +3115,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@^5.0.0:
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.0.tgz#5f4c1d1e748d30cd73ad2944b3577a81b081e8c2"
-  integrity sha512-qjtRgnIVmOfnKUE3NJAQEdk+lKrxfw8t5ke7SXtfMTHcjsBfOfWXCQfdb30zfDoZQ2IRSIiidmjtbHZPZ++Ihw==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
